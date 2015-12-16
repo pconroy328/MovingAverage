@@ -3,6 +3,7 @@
  * Author: pconroy
  *
  * Created on January 19, 2015, 8:46 AM
+ * 16-Dec-2015 - Just adding a comment so I can test out AWS Code Commit from Netbeans
  */
 
 #ifndef MOVINGAVERAGE_H
