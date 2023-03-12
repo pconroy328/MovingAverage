@@ -16,7 +16,7 @@ extern "C" {
 //
 // Going to use Troy Hanson's Excellent LinkedList Macros
 #include <stdio.h>
-#include <UtHash/utlist.h>
+#include <uthash/utlist.h>
 
 #ifndef     FALSE
 # define    FALSE       0
